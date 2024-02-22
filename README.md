@@ -1,3 +1,4 @@
 # Affirmation
 Implement this interface using the ressources of this git
-![affirmationcard](https://github.com/mouniraz/Affirmation/blob/main/Captureaffirmation.PNG)
+<img src="[image_url](https://github.com/mouniraz/Affirmation/blob/main/Captureaffirmation.PNG)" alt="affirmation" width="200" height="200"/>
+
