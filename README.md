@@ -1,3 +1,3 @@
 # Affirmation
 Implement this interface using the ressources of this git
-<img 
+![affirmationcard](https://github.com/mouniraz/Affirmation/blob/main/Captureaffirmation.PNG)
